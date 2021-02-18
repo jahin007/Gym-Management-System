@@ -1,0 +1,801 @@
+.aside-menu .menu-nav>.menu-item.menu-item-active>.menu-heading,
+.aside-menu .menu-nav>.menu-item.menu-item-active>.menu-link {
+    background-color: #00cfe8;
+}
+
+.aside-menu .menu-nav>.menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover>.menu-heading,
+.aside-menu .menu-nav>.menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover>.menu-link {
+    background-color: #00cfe8;
+}
+
+.aside-menu .menu-nav>.menu-item.menu-item-open>.menu-heading,
+.aside-menu .menu-nav>.menu-item.menu-item-open>.menu-link {
+    background-color: #00cfe8;
+}
+
+.aside-menu .menu-nav>.menu-item .menu-submenu .menu-item.menu-item-active>.menu-heading,
+.aside-menu .menu-nav>.menu-item .menu-submenu .menu-item.menu-item-active>.menu-link {
+    background-color: #00cfe8;
+}
+
+.aside-menu .menu-nav>.menu-item .menu-submenu .menu-item.menu-item-open>.menu-heading,
+.aside-menu .menu-nav>.menu-item .menu-submenu .menu-item.menu-item-open>.menu-link {
+    background-color: #00cfe8;
+}
+
+.aside-menu .menu-nav>.menu-item .menu-submenu .menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover>.menu-heading,
+.aside-menu .menu-nav>.menu-item .menu-submenu .menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover>.menu-link {
+    background-color: #00cfe8;
+}
+
+.aside-menu .menu-nav>.menu-item .menu-submenu .menu-item.menu-item-active>.menu-heading,
+.aside-menu .menu-nav>.menu-item .menu-submenu .menu-item.menu-item-active>.menu-link {
+    background-color: #00cfe8;
+}
+
+.dark-bg-card-75 {
+    background-color: #15b8ca;
+}
+
+.dark-bg-card {
+    background-color: #00cfe8 !important;
+}
+
+.dark-card {
+    color: #00cfe8 !important;
+}
+
+.text-dark-75 {
+    color: #00cfe8 !important;
+}
+
+.text-dark {
+    color: #00cfe8 !important;
+}
+
+.spinner.spinner-circle:before {
+    border: 2px solid #00cfe8;
+    border-right: 2px solid transparent;
+}
+
+.datatable.datatable-default>.datatable-table>.datatable-body .datatable-row>.datatable-cell>span {
+    color: #00cfe8;
+}
+
+.card-label {
+    color: #00cfe8 !important;
+}
+
+.btn.btn-clean i {
+    color: #00cfe8;
+}
+
+.table.table-head-bg thead th {
+    background-color: #00cfe8 !important;
+    border-bottom: 0;
+    letter-spacing: 1px;
+}
+
+.btn-style {
+    color: #ffffff;
+    background-color: #00cfe8;
+    border-color: #00cfe8;
+}
+
+.btn-hover-style:hover {
+    background-color: #5f52e6 !important;
+    border-color: #5f52e6;
+}
+
+.btn.btn-primary:not(:disabled):not(.disabled):active:not(.btn-text),
+.btn.btn-primary:not(:disabled):not(.disabled).active,
+.show>.btn.btn-primary.dropdown-toggle,
+.show .btn.btn-primary.btn-dropdown {
+    color: #ffffff;
+    background-color: #00cfe8;
+    border-color: #00cfe8;
+}
+
+.btn.btn-default:hover:not(.btn-text):not(:disabled):not(.disabled),
+.btn.btn-default:focus:not(.btn-text),
+.btn.btn-default.focus:not(.btn-text) {
+    color: #00cfe8;
+    background-color: #f3f6f9;
+    border-color: #f3f6f9;
+}
+
+.dataTables_wrapper .dataTable .group th,
+.dataTables_wrapper .dataTable .group td {
+    background-color: #00cfe8;
+}
+
+.btn.btn-default:not(:disabled):not(.disabled):active:not(.btn-text) i,
+.btn.btn-default:not(:disabled):not(.disabled).active i,
+.show>.btn.btn-default.dropdown-toggle i,
+.show .btn.btn-default.btn-dropdown i {
+    color: #00cfe8;
+}
+
+.btn.btn-default:hover:not(.btn-text):not(:disabled):not(.disabled) i,
+.btn.btn-default:focus:not(.btn-text) i,
+.btn.btn-default.focus:not(.btn-text) i {
+    color: #00cfe8;
+}
+
+.nav-pills .nav-link.active,
+.nav-pills .show>.nav-link {
+    color: #ffffff;
+    background-color: #00cfe8 !important;
+}
+
+.brand .btn i {
+    color: #00cfe8;
+}
+
+.brand .btn .svg-icon svg g [fill] {
+    -webkit-transition: fill 0.3s ease;
+    transition: fill 0.3s ease;
+    fill: #00cfe8;
+}
+
+.brand .btn.active .svg-icon svg g [fill],
+.brand .btn:hover .svg-icon svg g [fill] {
+    -webkit-transition: fill 0.3s ease;
+    transition: fill 0.3s ease;
+    fill: #00cfe8;
+}
+
+.brand .btn.active i,
+.brand .btn:hover i {
+    color: #00cfe8;
+}
+
+.header-mobile .burger-icon span {
+    background-color: #00cfe8;
+}
+
+.header-mobile .burger-icon span::before,
+.header-mobile .burger-icon span::after {
+    background-color: #00cfe8;
+}
+
+.header-mobile .burger-icon:hover span {
+    background-color: #00cfe8;
+}
+
+.header-mobile .burger-icon:hover span::before,
+.header-mobile .burger-icon:hover span::after {
+    background-color: #00cfe8;
+}
+
+.header .header-menu .menu-nav>.menu-item.menu-item-here>.menu-link,
+.header .header-menu .menu-nav>.menu-item.menu-item-active>.menu-link {
+    background-color: #00cfe8;
+}
+
+.header .header-menu .menu-nav>.menu-item:hover:not(.menu-item-here):not(.menu-item-active)>.menu-link,
+.header .header-menu .menu-nav>.menu-item.menu-item-hover:not(.menu-item-here):not(.menu-item-active)>.menu-link {
+    background-color: #00cfe8;
+}
+
+.header-menu .menu-nav>.menu-item .menu-submenu>.menu-subnav>.menu-item.menu-item-active>.menu-link {
+    background-color: #00cfe8;
+}
+
+.header-menu .menu-nav>.menu-item .menu-submenu>.menu-subnav>.menu-item:hover:not(.menu-item-here):not(.menu-item-active)>.menu-link,
+.header-menu .menu-nav>.menu-item .menu-submenu>.menu-subnav>.menu-item.menu-item-hover:not(.menu-item-here):not(.menu-item-active)>.menu-link {
+    background-color: #00cfe8;
+}
+
+.header-menu .menu-nav>.menu-item .menu-submenu>.menu-subnav .menu-content .menu-inner>.menu-item:hover:not(.menu-item-here):not(.menu-item-active)>.menu-link,
+.header-menu .menu-nav>.menu-item .menu-submenu>.menu-subnav .menu-content .menu-inner>.menu-item.menu-item-hover:not(.menu-item-here):not(.menu-item-active)>.menu-link {
+    background-color: #00cfe8;
+}
+
+.menu-style {
+    color: #00cfe8 !important;
+}
+
+.topbar .btn.btn-icon:active,
+.topbar .btn.btn-icon.active,
+.topbar .btn.btn-icon:hover,
+.topbar .btn.btn-icon:focus,
+.topbar .show .btn.btn-icon.btn-dropdown {
+    background-color: #00cfe8 !important;
+}
+
+.scrolltop {
+    background: #00cfe8 !important;
+}
+
+.symbol-group .symbol {
+    position: relative;
+    z-index: 0;
+    margin-left: -10px;
+    border: 2px solid #00cfe8;
+    -webkit-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+
+.symbol.symbol-light .symbol-label {
+    background-color: #00cfe8;
+    color: #ffffff;
+}
+
+.btn.btn-hover-primary:not(:disabled):not(.disabled):active:not(.btn-text),
+.btn.btn-hover-primary:not(:disabled):not(.disabled).active,
+.show>.btn.btn-hover-primary.dropdown-toggle,
+.show .btn.btn-hover-primary.btn-dropdown {
+    color: #ffffff !important;
+    background-color: #00cfe8 !important;
+    border-color: #00cfe8 !important;
+}
+
+.btn.btn-hover-primary:hover:not(.btn-text):not(:disabled):not(.disabled),
+.btn.btn-hover-primary:focus:not(.btn-text),
+.btn.btn-hover-primary.focus:not(.btn-text) {
+    color: #ffffff !important;
+    background-color: #00cfe8 !important;
+    border-color: #00cfe8 !important;
+}
+
+.btn.btn-light-primary:hover:not(.btn-text):not(:disabled):not(.disabled),
+.btn.btn-light-primary:focus:not(.btn-text),
+.btn.btn-light-primary.focus:not(.btn-text) {
+    color: #ffffff;
+    background-color: #00cfe8;
+    border-color: transparent;
+}
+
+.btn.btn-light-primary:not(:disabled):not(.disabled):active:not(.btn-text),
+.btn.btn-light-primary:not(:disabled):not(.disabled).active,
+.show>.btn.btn-light-primary.dropdown-toggle,
+.show .btn.btn-light-primary.btn-dropdown {
+    color: #ffffff;
+    background-color: #00cfe8;
+    border-color: transparent;
+}
+
+.btn.btn-light-primary {
+    color: #00cfe8;
+    background-color: #e1f0ff;
+    border-color: transparent;
+}
+
+.btn.btn-light-primary i {
+    color: #00cfe8;
+}
+
+.checkbox>input:checked~span {
+    background-color: #00cfe8;
+}
+
+.checkbox.checkbox-primary>input:checked~span {
+    background-color: #00cfe8;
+}
+
+.wizard.wizard-4 .wizard-nav .wizard-steps .wizard-step[data-wizard-state="current"] .wizard-wrapper .wizard-number {
+    color: #ffffff;
+    background-color: #00cfe8;
+}
+
+.wizard.wizard-4 .wizard-nav .wizard-steps .wizard-step[data-wizard-state="current"] .wizard-wrapper .wizard-label .wizard-title {
+    color: #00cfe8;
+}
+
+.wizard.wizard-4 .wizard-nav .wizard-steps .wizard-step .wizard-wrapper .wizard-number {
+    font-size: 1.3rem;
+    font-weight: 600;
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 2.75rem;
+    flex: 0 0 2.75rem;
+    height: 2.75rem;
+    width: 2.75rem;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    background-color: #e7e6f3;
+    color: #00cfe8;
+    margin-right: 1rem;
+    border-radius: 0.5rem;
+}
+
+.nav.nav-tabs.nav-tabs-line.nav-tabs-line-3x .nav-link:hover:not(.disabled),
+.nav.nav-tabs.nav-tabs-line.nav-tabs-line-3x .nav-link.active,
+.nav.nav-tabs.nav-tabs-line.nav-tabs-line-3x .show>.nav-link {
+    border-bottom: 3px solid #00cfe8;
+}
+
+.nav .show>.nav-link .nav-icon i,
+.nav .nav-link:hover:not(.disabled) .nav-icon i,
+.nav .nav-link.active .nav-icon i {
+    -webkit-transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, -webkit-box-shadow 0.15s ease;
+    transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, -webkit-box-shadow 0.15s ease;
+    transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease;
+    transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease, -webkit-box-shadow 0.15s ease;
+    color: #00cfe8;
+}
+
+.nav .show>.nav-link .nav-text,
+.nav .nav-link:hover:not(.disabled) .nav-text,
+.nav .nav-link.active .nav-text {
+    -webkit-transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, -webkit-box-shadow 0.15s ease;
+    transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, -webkit-box-shadow 0.15s ease;
+    transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease;
+    transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease, -webkit-box-shadow 0.15s ease;
+    color: #00cfe8;
+}
+
+.nav.nav-tabs.nav-tabs-line .nav-link:hover:not(.disabled),
+.nav.nav-tabs.nav-tabs-line .nav-link.active,
+.nav.nav-tabs.nav-tabs-line .show>.nav-link {
+    background-color: transparent;
+    border: 0;
+    border-bottom: 1px solid #00cfe8;
+    -webkit-transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, -webkit-box-shadow 0.15s ease;
+    transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, -webkit-box-shadow 0.15s ease;
+    transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease;
+    transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease, -webkit-box-shadow 0.15s ease;
+}
+
+.nav .show>.nav-link,
+.nav .nav-link:hover:not(.disabled),
+.nav .nav-link.active {
+    -webkit-transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, -webkit-box-shadow 0.15s ease;
+    transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, -webkit-box-shadow 0.15s ease;
+    transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease;
+    transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease, -webkit-box-shadow 0.15s ease;
+    color: #00cfe8;
+}
+
+.radio>input:checked~span {
+    background-color: #00cfe8;
+}
+
+.radio.radio-primary>input:checked~span {
+    background-color: #00cfe8;
+}
+
+.switch input:checked~span:after {
+    opacity: 1;
+    color: #ffffff;
+    background-color: #00cfe8;
+}
+
+.checkbox.checkbox-success>input:checked~span {
+    background-color: #00cfe8;
+}
+
+.navi.navi-active .navi-item .navi-link.active {
+    background-color: #00cfe8;
+}
+
+.navi.navi-hover .navi-item .navi-link:hover {
+    background-color: #00cfe8;
+}
+
+.card.card-custom>.card-header .card-title,
+.card.card-custom>.card-header .card-title .card-label {
+    font-weight: 500;
+    font-size: 1.275rem;
+    color: #00cfe8;
+}
+
+.timeline.timeline-3 .timeline-items .timeline-item {
+    margin-left: 25px;
+    border-left: 2px solid #00cfe8;
+    padding: 0 0 20px 50px;
+    position: relative;
+}
+
+.timeline.timeline-3 .timeline-items .timeline-item .timeline-media {
+    position: absolute;
+    top: 0;
+    left: -26px;
+    border: 2px solid #00cfe8;
+    border-radius: 100%;
+    width: 50px;
+    height: 50px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    background-color: #00cfe8;
+    line-height: 0;
+}
+
+.wizard.wizard-1 .wizard-nav .wizard-steps .wizard-step .wizard-label .wizard-icon {
+    color: #00cfe8;
+    font-size: 3.75rem;
+}
+
+.wizard.wizard-1 .wizard-nav .wizard-steps .wizard-step .wizard-label .wizard-icon svg g [fill] {
+    -webkit-transition: fill 0.3s ease;
+    transition: fill 0.3s ease;
+    fill: #00cfe8;
+}
+
+.wizard.wizard-1 .wizard-nav .wizard-steps .wizard-step[data-wizard-state="done"] .wizard-label .wizard-icon,
+.wizard.wizard-1 .wizard-nav .wizard-steps .wizard-step[data-wizard-state="current"] .wizard-label .wizard-icon {
+    color: #00cfe8;
+}
+
+.wizard.wizard-1 .wizard-nav .wizard-steps .wizard-step[data-wizard-state="done"] .wizard-label .wizard-icon svg g [fill],
+.wizard.wizard-1 .wizard-nav .wizard-steps .wizard-step[data-wizard-state="current"] .wizard-label .wizard-icon svg g [fill] {
+    -webkit-transition: fill 0.3s ease;
+    transition: fill 0.3s ease;
+    fill: #00cfe8;
+}
+
+.wizard.wizard-1 .wizard-nav .wizard-steps .wizard-step[data-wizard-state="done"] .wizard-label .wizard-title,
+.wizard.wizard-1 .wizard-nav .wizard-steps .wizard-step[data-wizard-state="current"] .wizard-label .wizard-title {
+    color: #00cfe8;
+}
+
+.wizard.wizard-1 .wizard-nav .wizard-steps .wizard-step[data-wizard-state="done"] .wizard-arrow,
+.wizard.wizard-1 .wizard-nav .wizard-steps .wizard-step[data-wizard-state="current"] .wizard-arrow {
+    color: #00cfe8;
+}
+
+.wizard.wizard-1 .wizard-nav .wizard-steps .wizard-step[data-wizard-state="done"] .wizard-arrow svg g [fill],
+.wizard.wizard-1 .wizard-nav .wizard-steps .wizard-step[data-wizard-state="current"] .wizard-arrow svg g [fill] {
+    -webkit-transition: fill 0.3s ease;
+    transition: fill 0.3s ease;
+    fill: #00cfe8;
+}
+
+.login.login-3 .login-aside .wizard-nav .wizard-steps .wizard-step[data-wizard-state="current"] .wizard-icon .wizard-number {
+    color: #ffffff;
+}
+
+.login.login-3 .login-aside .wizard-nav .wizard-steps .wizard-step[data-wizard-state="current"] .wizard-icon {
+    -webkit-transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, -webkit-box-shadow 0.15s ease;
+    transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, -webkit-box-shadow 0.15s ease;
+    transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease;
+    transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease, -webkit-box-shadow 0.15s ease;
+    background-color: #00cfe8;
+}
+
+.login.login-3 .login-aside .wizard-nav .wizard-steps .wizard-step[data-wizard-state="done"] .wizard-icon {
+    -webkit-transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, -webkit-box-shadow 0.15s ease;
+    transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, -webkit-box-shadow 0.15s ease;
+    transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease;
+    transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease, -webkit-box-shadow 0.15s ease;
+    background-color: #00cfe8;
+}
+
+.login.login-3 .login-aside .wizard-nav .wizard-steps .wizard-step[data-wizard-state="done"] .wizard-icon .wizard-check {
+    color: #ffffff;
+    display: inline-block;
+}
+
+.login.login-4 .login-container .login-content .wizard-nav .wizard-steps .wizard-step[data-wizard-state="current"] .wizard-icon {
+    -webkit-transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, -webkit-box-shadow 0.15s ease;
+    transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, -webkit-box-shadow 0.15s ease;
+    transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease;
+    transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease, -webkit-box-shadow 0.15s ease;
+    background-color: #00cfe8;
+}
+
+.login.login-4 .login-container .login-content .wizard-nav .wizard-steps .wizard-step[data-wizard-state="current"] .wizard-icon .wizard-number {
+    color: #ffffff;
+}
+
+.login.login-4 .login-container .login-content .wizard-nav .wizard-steps .wizard-step[data-wizard-state="done"] .wizard-icon {
+    -webkit-transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, -webkit-box-shadow 0.15s ease;
+    transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, -webkit-box-shadow 0.15s ease;
+    transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease;
+    transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease, -webkit-box-shadow 0.15s ease;
+    background-color: #00cfe8;
+}
+
+.login.login-4 .login-container .login-content .wizard-nav .wizard-steps .wizard-step[data-wizard-state="done"] .wizard-icon .wizard-check {
+    color: #ffffff;
+    display: inline-block;
+}
+
+.wizard.wizard-2 .wizard-nav .wizard-steps .wizard-step[data-wizard-state="current"] {
+    background-color: #00cfe8;
+    -webkit-transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, -webkit-box-shadow 0.15s ease;
+    transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, -webkit-box-shadow 0.15s ease;
+    transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease;
+    transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease, -webkit-box-shadow 0.15s ease;
+}
+
+.wizard.wizard-2 .wizard-nav .wizard-steps .wizard-step .wizard-label .wizard-title {
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 1.1rem;
+}
+
+.wizard.wizard-2 .wizard-nav .wizard-steps .wizard-step[data-wizard-state="current"] .wizard-icon i {
+    color: #ffffff !important;
+}
+
+.wizard.wizard-2 .wizard-nav .wizard-steps .wizard-step .wizard-label .wizard-desc {
+    color: #b5b5c3;
+}
+
+.wizard.wizard-2 .wizard-nav .wizard-steps .wizard-step[data-wizard-state="current"]:after {
+    left: 100%;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+    content: " ";
+    height: 0;
+    width: 0;
+    border: solid transparent;
+    position: absolute;
+    border-left-color: #00cfe8;
+    border-width: 1rem;
+}
+
+.wizard.wizard-3 .wizard-nav .wizard-steps .wizard-step[data-wizard-state="current"] .wizard-label {
+    color: #00cfe8;
+}
+
+.wizard.wizard-3 .wizard-nav .wizard-steps .wizard-step[data-wizard-state="current"] .wizard-label .wizard-bar:after {
+    width: 100%;
+    background-color: #00cfe8;
+}
+
+.wizard.wizard-5 .wizard-aside .wizard-nav .wizard-steps .wizard-step[data-wizard-state="current"] .wizard-icon {
+    -webkit-transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, -webkit-box-shadow 0.15s ease;
+    transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, -webkit-box-shadow 0.15s ease;
+    transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease;
+    transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease, -webkit-box-shadow 0.15s ease;
+    background-color: #00cfe8;
+}
+
+.wizard.wizard-5 .wizard-aside .wizard-nav .wizard-steps .wizard-step[data-wizard-state="current"] .wizard-icon .wizard-number {
+    color: #ffffff;
+}
+
+.wizard.wizard-5 .wizard-aside .wizard-nav .wizard-steps .wizard-step[data-wizard-state="current"]:last-child .wizard-icon,
+.wizard.wizard-5 .wizard-aside .wizard-nav .wizard-steps .wizard-step[data-wizard-state="done"] .wizard-icon {
+    -webkit-transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, -webkit-box-shadow 0.15s ease;
+    transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, -webkit-box-shadow 0.15s ease;
+    transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease;
+    transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease, -webkit-box-shadow 0.15s ease;
+    background-color: #00cfe8;
+}
+
+.wizard.wizard-6 .wizard-content .wizard-nav .wizard-steps .wizard-step[data-wizard-state="current"] .wizard-icon {
+    -webkit-transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, -webkit-box-shadow 0.15s ease;
+    transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, -webkit-box-shadow 0.15s ease;
+    transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease;
+    transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease, -webkit-box-shadow 0.15s ease;
+    background-color: #00cfe8;
+}
+
+.wizard.wizard-6 .wizard-content .wizard-nav .wizard-steps .wizard-step[data-wizard-state="current"] .wizard-icon .wizard-number {
+    color: #ffffff;
+}
+
+.wizard.wizard-6 .wizard-content .wizard-nav .wizard-steps .wizard-step[data-wizard-state="current"] .wizard-label .wizard-title {
+    color: #ffffff;
+}
+
+.wizard.wizard-6 .wizard-content .wizard-nav .wizard-steps .wizard-step .wizard-label .wizard-title {
+    color: #ffffff;
+    font-weight: 600;
+    font-size: 1.24rem;
+}
+
+.wizard.wizard-6 .wizard-content .wizard-nav .wizard-steps .wizard-step[data-wizard-state="current"]:last-child .wizard-icon,
+.wizard.wizard-6 .wizard-content .wizard-nav .wizard-steps .wizard-step[data-wizard-state="done"] .wizard-icon {
+    -webkit-transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, -webkit-box-shadow 0.15s ease;
+    transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, -webkit-box-shadow 0.15s ease;
+    transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease;
+    transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease, -webkit-box-shadow 0.15s ease;
+    background-color: #00cfe8;
+}
+
+.wizard.wizard-6 .wizard-content .wizard-nav .wizard-steps .wizard-step[data-wizard-state="current"]:last-child .wizard-icon .wizard-check,
+.wizard.wizard-6 .wizard-content .wizard-nav .wizard-steps .wizard-step[data-wizard-state="done"] .wizard-icon .wizard-check {
+    color: #ffffff;
+    display: inline-block;
+}
+
+.datatable.datatable-default>.datatable-pager>.datatable-pager-nav>li>.datatable-pager-link.datatable-pager-link-active {
+    -webkit-transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, -webkit-box-shadow 0.15s ease;
+    transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, -webkit-box-shadow 0.15s ease;
+    transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease;
+    transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease, -webkit-box-shadow 0.15s ease;
+    background-color: #00cfe8;
+    color: #ffffff;
+}
+
+.datatable.datatable-default>.datatable-pager>.datatable-pager-nav>li>.datatable-pager-link:hover:not(.datatable-pager-link-disabled) {
+    opacity: 1;
+    -webkit-transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, -webkit-box-shadow 0.15s ease;
+    transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, -webkit-box-shadow 0.15s ease;
+    transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease;
+    transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease, -webkit-box-shadow 0.15s ease;
+    background-color: #00cfe8;
+    color: #ffffff;
+}
+
+.datatable.datatable-default>.datatable-pager>.datatable-pager-info .datatable-pager-size .btn.dropdown-toggle {
+    height: 2.25rem;
+    padding: 0.45rem 1rem;
+    font-size: 1rem;
+    font-weight: 500;
+    border: 0 !important;
+    color: #ffffff;
+    background-color: #00cfe8 !important;
+    border-radius: 0.42rem;
+}
+
+.datatable.datatable-default>.datatable-pager>.datatable-pager-info .datatable-pager-size .btn.dropdown-toggle:focus,
+.datatable.datatable-default>.datatable-pager>.datatable-pager-info .datatable-pager-size .btn.dropdown-toggle:hover,
+.datatable.datatable-default>.datatable-pager>.datatable-pager-info .datatable-pager-size.show>.btn.dropdown-toggle {
+    border: 0 !important;
+    color: #ffffff !important;
+    background-color: #00cfe8 !important;
+}
+
+.datatable.datatable-default>.datatable-pager>.datatable-pager-info .datatable-pager-size .btn.dropdown-toggle .filter-option,
+.datatable.datatable-default>.datatable-pager>.datatable-pager-info .datatable-pager-size .btn.dropdown-toggle:after,
+.datatable.datatable-default>.datatable-pager>.datatable-pager-info .datatable-pager-size .btn.dropdown-toggle i {
+    -webkit-transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, -webkit-box-shadow 0.15s ease;
+    transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, -webkit-box-shadow 0.15s ease;
+    transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease;
+    transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease, -webkit-box-shadow 0.15s ease;
+    color: #ffffff;
+}
+
+.bootstrap-select .dropdown-menu.inner>li.active:not(.selected)>a {
+    background: #00cfe8;
+}
+
+.bootstrap-select .dropdown-menu.inner>li.selected>a {
+    background: #00cfe8;
+}
+
+.btn.btn-clean .svg-icon svg g [fill] {
+    -webkit-transition: fill 0.3s ease;
+    transition: fill 0.3s ease;
+    fill: #00cfe8;
+}
+
+.datatable.datatable-default>.datatable-table>.datatable-head .datatable-row>.datatable-cell>span,
+.datatable.datatable-default>.datatable-table>.datatable-foot .datatable-row>.datatable-cell>span {
+    font-weight: 500;
+    vertical-align: middle;
+    color: #b5b5c3;
+}
+
+.dataTables_wrapper .dataTables_paginate .pagination .page-item.active>.page-link {
+    -webkit-transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, -webkit-box-shadow 0.15s ease;
+    transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, -webkit-box-shadow 0.15s ease;
+    transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease;
+    transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease, -webkit-box-shadow 0.15s ease;
+    background-color: #00cfe8;
+    color: #ffffff;
+}
+
+.dataTables_wrapper .dataTables_paginate .pagination .page-item:hover:not(.disabled)>.page-link {
+    -webkit-transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, -webkit-box-shadow 0.15s ease;
+    transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, -webkit-box-shadow 0.15s ease;
+    transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease;
+    transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease, -webkit-box-shadow 0.15s ease;
+    background-color: #00cfe8;
+    color: #ffffff;
+}
+
+.modal .modal-header .modal-title {
+    font-weight: 500;
+    font-size: 1.3rem;
+    color: #00cfe8;
+}
+
+.timeline.timeline-1 .timeline-item .timeline-badge {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    width: 30px;
+    height: 30px;
+    -ms-flex-negative: 0;
+    flex-shrink: 0;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    background-color: #00cfe8;
+    border-radius: 50%;
+    border: 4px solid #00cfe8;
+    position: relative;
+    z-index: 0;
+}
+
+.timeline.timeline-1 .timeline-sep {
+    z-index: 0;
+    content: "";
+    position: absolute;
+    left: 73px;
+    width: 4px;
+    top: 0;
+    bottom: 0;
+    background-color: #00cfe8;
+}
+
+.fc-unthemed .fc-toolbar .fc-button:focus,
+.fc-unthemed .fc-toolbar .fc-button:active,
+.fc-unthemed .fc-toolbar .fc-button.fc-button-active {
+    background: #00cfe8;
+    color: #ffffff;
+    border: 1px solid #00cfe8;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    text-shadow: none;
+}
+
+.fc-unthemed .fc-toolbar .fc-button {
+    color: #b5b5c3;
+    background: transparent;
+    border: 1px solid #ebedf3;
+    text-shadow: none !important;
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+}
+
+.fc-day-number {
+    color: #00cfe8 !important;
+}
+
+.fc-unthemed .fc-description {
+    color: #00cfe8;
+}
+
+.dataTables_wrapper .dataTable tbody tr.active th,
+.dataTables_wrapper .dataTable tbody tr.active td,
+.dataTables_wrapper .dataTable tbody tr.selected th,
+.dataTables_wrapper .dataTable tbody tr.selected td {
+    background-color: #00cfe8;
+    border-left-color: #ebedf3;
+    border-right-color: #ebedf3;
+    color: #ffffff;
+}
+
+.dataTables_wrapper .dataTable th,
+.dataTables_wrapper .dataTable td {
+    font-weight: 400;
+    font-size: 1rem;
+    vertical-align: middle;
+    color: #00cfe8;
+    -webkit-transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, -webkit-box-shadow 0.15s ease;
+    transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, -webkit-box-shadow 0.15s ease;
+    transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease;
+    transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease, -webkit-box-shadow 0.15s ease;
+    outline: none !important;
+    padding: 1rem 1rem;
+}
+
+.table-hover tbody tr:hover {
+    color: #00cfe8;
+    background-color: #ffffff;
+}
+
+.navi .navi-item .navi-link .navi-text {
+    color: #00cfe8;
+}
+
+.btn.btn-light {
+    color: #ffffff;
+    background-color: #00cfe8;
+    border-color: #f3f6f9;
+}

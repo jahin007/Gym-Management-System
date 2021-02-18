@@ -1,0 +1,40 @@
+.topbar .btn.btn-icon i {
+    color: #ffffff;
+}
+
+.topbar .btn.btn-icon:active,
+.topbar .btn.btn-icon.active,
+.topbar .btn.btn-icon:hover,
+.topbar .btn.btn-icon:focus,
+.topbar .show .btn.btn-icon.btn-dropdown {
+    background-color: #ffffff !important;
+}
+.dark-header {
+    color: #3f4254;
+}
+
+@media (min-width: 992px) {
+    .header {
+        background-color: #ea5455;
+    }
+}
+
+@media (max-width: 991.98px) {
+.header-mobile {
+    background-color: #ea5455;
+}
+.header-mobile .burger-icon span {
+    background-color: #ffffff;
+}
+.header-mobile .burger-icon:hover span::before,
+.header-mobile .burger-icon:hover span::after {
+    background-color: #ffffff;
+}
+.header-mobile .burger-icon span::before,
+.header-mobile .burger-icon span::after {
+    background-color:#ffffff;
+}
+
+.header-mobile .burger-icon:hover span {
+    background-color: #ffffff;
+}

@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+}
+
+.aqua-logo {
+    width: 125px;
+    height: 105px;
+}
+
+ul li a:hover .fa {
+    color: #3699ff;
+}
+
+#spinGear {
+    animation: spin 1.5s linear infinite;
+}
+
+#user-icon {
+    font-size: 25px;
+}
+
+@keyframes spin {
+    100% {
+        -webkit-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+}
+
+#kt_aside_menu ul li .menu-link:hover {
+    animation-name: move-right;
+    animation-duration: 0.5s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes move-right {
+    100% {
+        padding-left: 35px;
+    }
+}
+
+@media (max-width: 991.98px) {
+    .aqua-logo {
+        width: 100px;
+        height: 55px;
+    }
+}
